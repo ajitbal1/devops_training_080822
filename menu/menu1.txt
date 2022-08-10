@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+test 2
+test 3
+`:wq
+
+
+
+=======
+Test1
+>>>>>>> stage
